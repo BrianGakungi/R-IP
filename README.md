@@ -1,11 +1,11 @@
 # R-IP
 # WEEK-9-IP-KNN-AND-NAIVE-BAYES-CLASSIFIERS
-# {John Njagi Advertisement Analysis}
-#### {Detailed analysis of implementation of R programming language in analysing an advertisement campaign}, {27th May, 2022}
+# {John Njagi Advertising campaign analysis}
+#### {Detailed analysis of implementation of R programming language in an advertising campaign analysis}, {27th May, 2022}
 #### By **{John Njagi}**
 ## Description
-{This is a detailed analysis of the implementation of R programming language in analysing which factors heavily influence an individual to click on an ad posted by a company}
-## {I have used R studio to perfrom my analysis and Rpubs to publish my work}
+{This is a detailed analysis of the implementation of R in performing a detailed analysis of an advertising campaign to determine which factors contribute highly to an individual clicking on the company's ad}
+## {I have used google colab notebook and pandas to carry out my analysis}
 ## Support and contact details
 {Upon encountering any issues I can be reached on njagij10@gmail.com}
 ### License

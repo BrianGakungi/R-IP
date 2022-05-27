@@ -1,5 +1,4 @@
 # R-IP
-# WEEK-9-IP-KNN-AND-NAIVE-BAYES-CLASSIFIERS
 # {John Njagi Advertising campaign analysis}
 #### {Detailed analysis of implementation of R programming language in an advertising campaign analysis}, {27th May, 2022}
 #### By **{John Njagi}**

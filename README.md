@@ -4,7 +4,7 @@
 #### By **{John Njagi}**
 ## Description
 {This is a detailed analysis of the implementation of R in performing a detailed analysis of an advertising campaign to determine which factors contribute highly to an individual clicking on the company's ad}
-## {I have used google colab notebook and pandas to carry out my analysis}
+## {I have used R-studio to carry out my analysis and have published my work on R-pubs}
 ## Support and contact details
 {Upon encountering any issues I can be reached on njagij10@gmail.com}
 ### License
